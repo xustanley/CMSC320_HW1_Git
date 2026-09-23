@@ -6,4 +6,9 @@ You can develop new features without breaking the working main version.
 You can collaborate with others on a shared project.
 You can have others review your work before you contribute to the main version.
 
+Q2: What field could data science be applied to? Give an Example.
 
+Answer: 
+It can be used for various fields but one example could be in healthcare 
+to predict patient outcomes and optimize hospital operations.
+Specifically, you can use deep learning models to analyze MRIs or CTs.
