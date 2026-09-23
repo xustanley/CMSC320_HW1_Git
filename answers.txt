@@ -12,3 +12,9 @@ Answer:
 It can be used for various fields but one example could be in healthcare 
 to predict patient outcomes and optimize hospital operations.
 Specifically, you can use deep learning models to analyze MRIs or CTs.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer:
+Merging combines two branches through a new merge commit, whereas rebasing replays
+versions and moving commits onto a new base branch.
